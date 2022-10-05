@@ -191,6 +191,7 @@ print(
 drawGame = Game(GAME_SIZE, [], [])
 try:
     while True:
+        gen_count += 1
         population = new_population(population, fitnesses)
         fitnesses = evaluate(population)
         print(
