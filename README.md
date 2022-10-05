@@ -5,7 +5,14 @@ This program uses an evolutionary algorithm to create a neural network that can 
 # Usage
 
 1. Make sure you have [python installed](https://www.python.org/downloads/)
-2. Next, install the packages...
+2. Clone the repository
+
+```
+git clone https://github.com/Ashwagandhae/smart-snake
+cd smart-snake
+```
+
+3. Next, install the packages...
    You can install from requirements.txt:
 
 ```
@@ -18,7 +25,7 @@ Or, just install manually (there's only 1 package):
 pip install numpy
 ```
 
-3. Finally, run the program
+4. Finally, run the program
 
 ```
 python3 main.py
