@@ -1,0 +1,8 @@
+max_ticks = 3000
+
+DIMS = [32, 16, 8]
+IN_DIM = 9
+OUT_DIM = 3
+
+GAME_SIZE = 10
+POP_SIZE = 1000
