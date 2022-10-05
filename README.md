@@ -13,7 +13,8 @@ cd smart-snake
 ```
 
 3. Next, install the packages...
-   You can install from requirements.txt:
+
+You can install from requirements.txt:
 
 ```
 pip install -r requirements.txt
